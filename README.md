@@ -23,7 +23,11 @@ This tool scans a designated folder for all Excel files (`.xls`, `.xlsx`, etc.) 
 
 
 **Stop wasting time. Start navigating.**
+<img width="421" height="312.5" alt="EMSB" src="https://github.com/user-attachments/assets/26b495a5-cecc-4ef8-83c1-0160b4edc8ad" />
+
+
 
 ---
 *Built with Python, openpyxl, and customtkinter.*
+
 
