@@ -1,4 +1,8 @@
-﻿# Excel Master Index Builder: Navigate Your Data Like a Pro
+# Excel Master Index Builder: Navigate Your Data Like a Pro
+
+<p align="center">
+  <img width="421" height="312.5" alt="EMSB" src="https://github.com/user-attachments/assets/26b495a5-cecc-4ef8-83c1-0160b4edc8ad" />
+</p>
 
 **Tired of Excel sheet chaos?** Drowning in a sea of spreadsheets, constantly clicking through folders and tabs to find that one crucial piece of data? We've been there.
 
@@ -23,11 +27,9 @@ This tool scans a designated folder for all Excel files (`.xls`, `.xlsx`, etc.) 
 
 
 **Stop wasting time. Start navigating.**
-<img width="421" height="312.5" alt="EMSB" src="https://github.com/user-attachments/assets/26b495a5-cecc-4ef8-83c1-0160b4edc8ad" />
-
-
 
 ---
 *Built with Python, openpyxl, and customtkinter.*
+
 
 
